@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://gif-finder.com/wp-content/uploads/2014/10/russianarmy.gif
+<img src="https://gif-finder.com/wp-content/uploads/2014/10/russianarmy.gif" width="30px">
+
